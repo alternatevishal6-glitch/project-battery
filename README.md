@@ -1,6 +1,4 @@
-the app for the Hackthon_interdisciplinary_ai :)
-Used ai :)
-CELLWATCH DESKTOP
+CELLWATCH DESKTOP :)
 ------------------
 Live battery telemetry monitor for a USB-connected Android phone, via ADB.
 
